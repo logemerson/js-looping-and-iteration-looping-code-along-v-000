@@ -7,6 +7,8 @@ function writeCards(namesArray) {
   return message;
 }
 
-function countdown(){
-  
+function countdown(num){
+  for (num, num >= 0, num--){
+    
+  }
 }
