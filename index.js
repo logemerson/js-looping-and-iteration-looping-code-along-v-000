@@ -6,3 +6,7 @@ function writeCards(namesArray) {
   }
   return message;
 }
+
+function countdown(){
+  
+}
